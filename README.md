@@ -2,9 +2,9 @@
 
 ## Phase 1:
 
-- Main Class - Main display functions and import for all the classes.
-- Term - Bank of all of the term sets that will be imported and displayed in the Main class functions.
-- Button - All of the button fuctionality
+- 'Main' (Connections) - Main display functions and import for all the classes.
+- 'Term - Bank' of all of the term sets that will be imported and displayed in the Main class functions.
+- 'Button' - All of the button fuctionality
 
 ### Next Steps:
 

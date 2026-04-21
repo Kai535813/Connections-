@@ -1,5 +1,7 @@
 # Connections-Kai Yun Chao | 3B
 
+### Make sure to have pygame installed.
+
 ## Phase 1:
 
 - 'Main' (Connections) - Main display functions and import for all the classes.

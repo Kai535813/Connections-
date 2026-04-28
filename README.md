@@ -19,5 +19,6 @@
 ## GUI:
 ![](https://github.com/Kai535813/Programming-Two-Solo-Project/blob/main/Photos/IMG_1118.jpg?raw=true)
 More Recent Image:
+
 ![](https://github.com/Kai535813/Connections-/blob/main/Photos/moreRecent.png?raw=true)
 ## UML:

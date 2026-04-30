@@ -4,6 +4,8 @@
 
 ### waterNoise file found on pixabay: https://pixabay.com/sound-effects/search/white-noise/ 
 
+### termSets from the NYT-Games Site Archives: https://connection-hints.com/connections-archives/ 
+
 ## Phase 1:
 
 - 'Main' (Connections) - Main display functions and import for all the classes.

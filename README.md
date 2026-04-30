@@ -2,6 +2,8 @@
 
 ### Make sure to have pygame installed.
 
+### waterNoise file found on pixabay: https://pixabay.com/sound-effects/search/white-noise/ 
+
 ## Phase 1:
 
 - 'Main' (Connections) - Main display functions and import for all the classes.

@@ -27,3 +27,4 @@ More Recent Image:
 
 ![](https://github.com/Kai535813/Connections-/blob/main/Photos/moreRecent.png?raw=true)
 ## UML:
+![](https://github.com/Kai535813/Connections-/blob/main/Photos/UML1.png?raw=true)
